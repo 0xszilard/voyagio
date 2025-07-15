@@ -1,10 +1,13 @@
 ## Update 2025.07.15: The repo has been publicly archived an will not be further maintined. To try out it's succesor visit: [Voyagio](https://voyagio.app)
 
----
+<br/>
+<br/>
 
 ---
 
-![Logo](public/logo_1.png)
+<br/>
+<br/>
+
 
 # Voyagio
 
