@@ -1,4 +1,4 @@
-**Please note this project hasn't been maintained since Feb 2024**
+## Update 2025.07.15: The repo has been publicly archived an will not be further maintined. To try out it's succesor visit: [Voyagio](https://voyagio.app)
 
 ![Logo](public/logo_1.png)
 
